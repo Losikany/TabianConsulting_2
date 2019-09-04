@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "615873247137",
+    "firebase_url": "https://tabian-d8f6d.firebaseio.com",
+    "project_id": "tabian-d8f6d",
+    "storage_bucket": "tabian-d8f6d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615873247137:android:5389d0cfc418477c",
+        "android_client_info": {
+          "package_name": "courses.pluralsight.com.tabian"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615873247137-3ivh4jv7795vo2blfsbefn0b58b6mon8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "courses.pluralsight.com.tabian",
+            "certificate_hash": "685ff80ffb5966f37e15bb73da3cdd83960cc427"
+          }
+        },
+        {
+          "client_id": "615873247137-ih63a1pl411uu1s5e1h5jancdst7v3qo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcqr-lsz8gn4OHopVmLJeIfOFwmqlYCeQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "615873247137-ih63a1pl411uu1s5e1h5jancdst7v3qo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
